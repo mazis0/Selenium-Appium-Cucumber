@@ -86,6 +86,6 @@ After execution, Cucumber reports are available at:
 
 To view the video of the test execution, please refer to the following file:
 
-video-recording.mov
+videorecording.mov
 
 This file contains a complete recording of the automation run, which can help in reviewing and verifying the test results.

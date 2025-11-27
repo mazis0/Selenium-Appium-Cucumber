@@ -76,3 +76,16 @@ After execution, Cucumber reports are available at:
 /target/cucumber-reports-html/cucumber-html-reports/features-overview.html
 ```
 
+## 📚 Test Reports
+After execution, Cucumber reports are available at:
+```bash
+/target/cucumber-reports-html/cucumber-html-reports/features-overview.html
+```
+
+### 📹 Test Execution Video
+
+To view the video of the test execution, please refer to the following file:
+
+video-recording.mov
+
+This file contains a complete recording of the automation run, which can help in reviewing and verifying the test results.
